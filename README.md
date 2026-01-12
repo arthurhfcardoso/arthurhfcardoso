@@ -28,7 +28,11 @@ O Luciano é engenheiro de dados, já trabalhou em grandes empresas como Radix, 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
+
+<br>
+
+ **`Engenharia de dados`**
 
 <img 
     align="left" 
@@ -65,11 +69,34 @@ O Luciano é engenheiro de dados, já trabalhou em grandes empresas como Radix, 
 />
 <img 
     align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" 
+/>
+<img 
+    align="left" 
+    alt="VB" 
+    title="VB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://camo.githubusercontent.com/eb1c0af55001fa4e9c6c64c2670fd34b47437fe6ec04a99ee7c8e3dd70737ab3/68747470733a2f2f77796461792e636f6d2f696d616765732f6c6d2f6c616e67732f7662612e312e737667" 
+/>
+
+<br/>
+
+<br>
+
+**`Web Design`**
+
+<img 
+    align="left" 
     alt="WordPress"
     title="WordPress" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/960px-WordPress_blue_logo.svg.png?20170312030453" 
 />
 <img 
     align="left" 
@@ -95,16 +122,6 @@ O Luciano é engenheiro de dados, já trabalhou em grandes empresas como Radix, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-  
-  <img 
-    align="left" 
-    alt="VB" 
-    title="VB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" 
-/>
-
-
+<br/>
 <br/>
 <br/>
